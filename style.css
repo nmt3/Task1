@@ -68,17 +68,17 @@ footer {
 @media screen and (max-width: 768px) {
   main {
     width: 100%;
-    margin: 50px;
+    margin: 50px 0;
     display: block;
   }
   
   .step-box {
     width: 90%;
-    margin-bottom: 20px;
+    margin: 20px auto;
   }
   
   .step-box:last-child {
-    margin-bottom: 0;
+    margin: 20px 5% 0;
   }
   
   .step-image1 {
@@ -91,6 +91,5 @@ footer {
   .step-image3 {
     height: 150px;
   }
-  
   
 }
